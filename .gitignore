@@ -1,0 +1,4 @@
+.env
+migration_state.db
+__pycache__/
+*.pyc
